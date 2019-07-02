@@ -1,3 +1,3 @@
 # MavenGo
 
-pull request
+pull requests
