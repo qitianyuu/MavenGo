@@ -11,3 +11,5 @@ Creating a new branch is quick and simple.
 branch management strategy
 
 dev test collaborate
+
+dev branch conflict test
