@@ -22,3 +22,5 @@ create conflict
 继续测试分支功能，我好烦
 
 测试pull requests 功能
+
+daijiankun被remove from collaborator后的提交
